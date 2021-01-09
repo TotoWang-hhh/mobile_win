@@ -2,7 +2,7 @@
 
 ## 一个U盘，能存储什么？
 
-![avatar](readme_img.jpg)
+![avatar](www.GitHub.com/Toto want-hhh/mobile_win/main/readme_img.jpg)
 
 可以是文档
 
