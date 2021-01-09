@@ -2,7 +2,7 @@
 
 ## 一个U盘，能存储什么？
 
-![avatar](www.github.com/TotoWang-hhh/mobile_win/main/readme_img.jpg)
+![disk](https://b1.sbimg.org/file/chevereto-jia/2021/01/09/Qwo8e.jpg)
 
 可以是文档
 
